@@ -1,0 +1,3 @@
+a=float(input("Enter the length of one side:"))
+
+print("The area of square is=" , a*a)
