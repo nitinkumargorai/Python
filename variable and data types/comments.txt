@@ -1,0 +1,7 @@
+ when we use # then we comments for single line
+ and when neen multi line comments like any paragraph then we use 
+"""
+Multi Line 
+comments
+"""
+Like this
