@@ -1,0 +1,2 @@
+
+Operators refer to special symbols that perform operations on values and variables. Furthermore, the operands in python, one of the programming languages, refer to the values on which the operator operates. Most noteworthy, operators can carry out arithmetic, relational, and logical operations.
