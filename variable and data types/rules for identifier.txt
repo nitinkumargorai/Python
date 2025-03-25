@@ -1,0 +1,5 @@
+1. Identifier can be combination of Uppercase and lowercase letteres, digits or an underscore(_)
+    So "myVariable, variable_1, variable_for_Print" all are valid python identifires.
+2. An identifier can not start with digit. So while variable1 is valid, 1variable is not valid.
+3. We can't use special symbols like !,#,@,%,$ etc in out identifier.
+4.Identifier can be of any legth.
