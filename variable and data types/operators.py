@@ -40,4 +40,14 @@ print(not(a==b)) #The correct answer is false,, therefore is shows True
 #and operator
 val1 = True
 val2 = True
-print("And operator is:", val1 and val2)
+print("And operator is:", val1 and val2) #True,, becaue both value is True and if our any value is going to be False then, it shows False, 
+  
+#or operator
+a = 10
+b = 5
+print("or Operator", (a == b) or (a > b)) #True,,,,, Because If any condition is true then it return True,,, and if both condition is False Then It return "False".
+
+#condition 2
+a = 10
+b = 11
+print((a > b) or (a == b)) #False,,,,, Because in this case both condition is "False" 
